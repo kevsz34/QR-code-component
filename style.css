@@ -25,20 +25,20 @@ article{
     padding: 0.9rem;
     max-width: 320px;
 }
-#textSect{
+.textSect{
     display: flex;
     flex-direction: column;
     padding: 1rem;
     align-items: center;
 }
-#textSect h1{
+.textSect h1{
     font-size: 1.4rem;
     color: #1F314F;
     font-weight: bold;
     max-width: 300px;
     padding-bottom: 1rem;
 }
-#textSect p{
+.textSect p{
     max-width: 290px;
     color: #68778D;
     font-size: 1rem;

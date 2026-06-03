@@ -19,27 +19,28 @@ article{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-radius: 20px;
+    border-radius: 15px;
     text-align: center;
-    font-size: 1rem;
     background-color: white;
-    padding: 0.8rem;
+    padding: 0.9rem;
     max-width: 320px;
 }
 #textSect{
     display: flex;
     flex-direction: column;
+    padding: 1rem;
     align-items: center;
 }
 #textSect h1{
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     color: #1F314F;
-    max-width: 250px;
-    padding: 15px 0;
+    font-weight: bold;
+    max-width: 300px;
+    padding-bottom: 1rem;
 }
 #textSect p{
-    max-width: 250px;
+    max-width: 290px;
     color: #68778D;
-    font-size: 0.9rem;
-    padding-bottom: 1.5rem;
+    font-size: 1rem;
+    padding-bottom: 1rem;
 }

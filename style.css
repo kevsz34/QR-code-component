@@ -19,11 +19,12 @@ article{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-radius: 15px;
+    border-radius: 20px;
     text-align: center;
     background-color: white;
     padding: 0.9rem;
     max-width: 320px;
+    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.122);
 }
 .textSect{
     display: flex;
@@ -39,8 +40,8 @@ article{
     padding-bottom: 1rem;
 }
 .textSect p{
-    max-width: 290px;
+    width: 260px;
     color: #68778D;
-    font-size: 1.1rem;
+    font-size: 1rem;
     padding-bottom: 1rem;
 }
